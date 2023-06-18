@@ -1,0 +1,11 @@
+print('Hello')
+print('Ten cua ban la gi?')
+myName = input()
+print('Rat vui duoc gap ban '+myName)
+print('Do dai ten cua ban la:')
+print(len(myName))
+
+print('Ban bao nhieu tuoi roi?')
+myAge = input()
+print('Vay nam sau ban se ' + str(int(myAge) + 1)+ ' tuoi')
+print('Tam biet!')
